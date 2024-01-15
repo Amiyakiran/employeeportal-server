@@ -1,11 +1,41 @@
 {
-    "users":[
-        {
-            "id":1,
-            "name":"Admin User",
-            "email":"admin@demoapp.com",
-            "active":"1",
-            "password":"Demoapp123"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "Demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "Amiya",
+      "email": "amiya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Ken",
+      "email": "ken@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Kelvin",
+      "email": "kelvin@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "Sutrishna",
+      "email": "sutrishna@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "active": "0"
+    }
+  ]
 }
